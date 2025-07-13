@@ -11,11 +11,11 @@
 Alternatively, you may use gopkg.in to grab a specific major-version:
 
     go get -u gopkg.in/fogleman/gg.v1
-
+x
 ## Documentation
 
 - godoc: https://godoc.org/github.com/fogleman/gg
-- pkg.go.dev: https://pkg.go.dev/github.com/fogleman/gg?tab=doc
+- pkg.go.dev: http;s://pkg.go.dev/github.com/fogleman/gg?tab=doc
 
 ## Hello, Circle!
 
